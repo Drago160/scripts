@@ -1,3 +1,4 @@
+-- Если их несколько (одинаковая ЗП) то выведутся все такие
 with ranked as (
 select 
 	Jobtitles.name
